@@ -13,6 +13,8 @@ lxml = "*"
 plotly = "*"
 requests = "*"
 nbformat = "*"
+ipython-sql = "*"
+seaborn = "*"
 
 [dev-packages]
 

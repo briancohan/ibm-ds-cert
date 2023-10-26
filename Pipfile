@@ -15,6 +15,10 @@ requests = "*"
 nbformat = "*"
 ipython-sql = "*"
 seaborn = "*"
+scipy = "*"
+scikit-learn = "*"
+ipywidgets = "*"
+tqdm = "*"
 
 [dev-packages]
 
